@@ -11,7 +11,7 @@ Requires Windows 10 version 2004 and higher or Windows 11.
 Next install Docker for WSL. The following instructions worked for me in May 2025:   
 <https://docs.docker.com/engine/install/ubuntu/>
 
-## Two primary uses for Docker:
+## Two primary uses for Docker in an academic setting:
 
 1. As a container for research (consistent version of OS, R, and R packages). Perhaps for a team who need to work in the same environment.
 2. As a container to preserve and share research for reproducibility. Perhaps for a paper that has been published. 
